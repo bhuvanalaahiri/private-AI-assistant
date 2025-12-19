@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    user:
+      email: user@gmail.com
+      name: User
+      password: "$2b$12$A7kQZL...PASTE HERE..."
+
+cookie:
+  expiry_days: 1
+  key: secret123
+  name: ai_cookie
